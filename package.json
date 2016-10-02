@@ -1,0 +1,40 @@
+{
+  "name": "hebrew-date",
+  "description": "Convert the date objects into the Hebrew calendar correspondant.",
+  "keywords": [
+    "hebrew",
+    "date",
+    "convert",
+    "the",
+    "objects",
+    "into",
+    "calendar",
+    "correspondant"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/hebrew-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/hebrew-date/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/hebrew-date#readme"
+}

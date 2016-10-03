@@ -30,6 +30,7 @@ console.log(hebrewDate(new Date(2016, october, 3)));
 
 ## :memo: Documentation
 
+
 ### `hebrewDate(inputDate, inputMonth, inputDate)`
 Convert the Gregorian dates  into Hebrew calendar dates.
 

@@ -8,4 +8,4 @@ console.log(hebrewDate(2016, 10, 2));
 
 let october = 9;
 console.log(hebrewDate(new Date(2016, october, 3)));
-// { year: 5777, month: 1, date: 7, month_name: 'Tishri' }
+// { year: 5777, month: 1, date: 1, month_name: 'Tishri' }

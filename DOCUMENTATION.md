@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Convert the Gregorian dates  into Hebrew calendar dates.
 
 #### Params
+
 - **Date|Number** `inputDate`: The date object (representing the Gregorian date) or the year.
 - **Number** `inputMonth`: The Gregorian month (**one-indexed**, January being `1`!).
 - **Number** `inputDate`: The Gregorian date.
